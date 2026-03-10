@@ -14,3 +14,16 @@ section {
     background-size: cover;
     background-position: center;
 }
+
+.tapBar {
+    width: 390px;
+    height: 88px;
+    position: absolute;
+    bottom: 0;
+}
+
+.tapBar .back {
+    width: 390px;
+    height: 88px;
+    background: linear-gradient(to bottom, rgba(58, 58, 106, 1) 0%, rgba(37, 36, 76, 0) 100%);
+}
